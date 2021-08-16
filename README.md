@@ -7,10 +7,10 @@ See here: https://github.com/posva/pinia/discussions/574
 
 Run `yarn install`, then `yarn dev` and open your browser to see the error.
 
-Browser: Firefox 91.0 (64-bit) for Ubuntu
-Nodejs: v15.14.0
-Yarn: 1.22.5
-OS: Ubuntu 18.04.5 LTS
+Browser: Firefox 91.0 (64-bit) for Ubuntu  
+Nodejs: v15.14.0  
+Yarn: 1.22.5  
+OS: Ubuntu 18.04.5 LTS  
 
 ## Build Setup
 
